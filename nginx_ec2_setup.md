@@ -46,6 +46,6 @@ http://<your-ec2-public-ip>
 **🎉 Success!**
 Your EC2 instance is now hosting a live Nginx-powered webpage!
 
-![2](https://github.com/user-attachments/assets/e70cb65f-6f75-4447-b4ca-b8657f3570ab)
+![2](https://github.com/user-attachments/assets/c2466318-d70e-49ad-98e5-31b4a1472e28)
+![1](https://github.com/user-attachments/assets/d03d5955-352c-45ba-ab79-41db0d905c1c)
 
-![1](https://github.com/user-attachments/assets/3c0a069d-0280-4075-bd6e-4679f365617a)
